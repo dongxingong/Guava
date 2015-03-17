@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="guava/src"/>
+	<classpathentry kind="src" path="guava-gwt/src"/>
+	<classpathentry kind="src" path="guava-gwt/src-super"/>
+	<classpathentry kind="src" path="guava-gwt/test"/>
+	<classpathentry kind="src" path="guava-gwt/test-super/com/google/common/base/super"/>
+	<classpathentry kind="src" path="guava-gwt/test-super/com/google/common/cache/super"/>
+	<classpathentry kind="src" path="guava-gwt/test-super/com/google/common/collect/super"/>
+	<classpathentry kind="src" path="guava-gwt/test-super/com/google/common/collect/testing/google/super"/>
+	<classpathentry kind="src" path="guava-gwt/test-super/com/google/common/collect/testing/super"/>
+	<classpathentry kind="src" path="guava-gwt/test-super/com/google/common/io/super"/>
+	<classpathentry kind="src" path="guava-gwt/test-super/com/google/common/math/super"/>
+	<classpathentry kind="src" path="guava-gwt/test-super/com/google/common/net/super"/>
+	<classpathentry kind="src" path="guava-gwt/test-super/com/google/common/primitives/super"/>
+	<classpathentry kind="src" path="guava-gwt/test-super/com/google/common/testing/super"/>
+	<classpathentry kind="src" path="guava-gwt/test-super/com/google/common/util/concurrent/super"/>
+	<classpathentry kind="src" path="guava-testlib/src"/>
+	<classpathentry kind="src" path="guava-testlib/test"/>
+	<classpathentry kind="src" path="guava-tests/benchmark"/>
+	<classpathentry kind="src" path="guava-tests/test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
