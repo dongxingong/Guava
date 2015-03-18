@@ -119,7 +119,7 @@ public class ServiceManagerTest extends TestCase {
     // TODO(kak): Use assertThat(startupTimes.get(a)).isAtLeast(150);
     assertTrue(startupTimes.get(a) >= 150);
     // TODO(kak): Use assertThat(startupTimes.get(b)).isAtLeast(353);
-    assertTrue(startupTimes.get(b) >= 353);
+    assertTrue(startupTimes.get(b) >= 353); 
   }
 
   public void testServiceStartupTimes_selfStartingServices() {
